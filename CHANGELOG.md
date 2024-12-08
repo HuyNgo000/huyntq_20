@@ -1,3 +1,7 @@
+# v1.0.1 - 20241209
+* [CDPM-06] Remove addition [PR#8] (https://github.com/HuyNgo000/huyntq_20/pull/8)
+
+
 # v1.0.0 - 20241209
 * [CDPM-01] Implement addition [PR#1] (https://github.com/HuyNgo000/huyntq_20/pull/1)
 * [CDPM-02] Implement subtraction [PR#3] (https://github.com/HuyNgo000/huyntq_20/pull/3)
